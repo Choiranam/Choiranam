@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhammad Choirul'anam</h1>
 
+<!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/choiranam">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=💻+Student+Developer;🚀+Future+Flutter+Engineer;🎮+Game+and+App+Builder;🎨+UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Profile Stats & Links -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=choiranam&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+  <a href="https://github.com/choiranam?tab=followers">
+    <img src="https://img.shields.io/github/followers/choiranam?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/choiranam?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Count-blue?style=flat-square&logo=github" alt="Public Repos" />
   </a>
 </p>
 
@@ -10,14 +22,6 @@
 
 💡 I enjoy turning ideas into real apps, exploring UI/UX design, and learning new technologies.  
 🚀 Always excited to build meaningful and creative digital experiences.
-
----
-
-### 🔧 Currently Working On
-- 📱 Mobile app using Flutter + Firebase  
-- 📚 Book order system project  
-- 🧠 Geometry calculator with 3D logic  
-- 🎮 Mini-game: museum vs museum strategy game
 
 ---
 
@@ -32,8 +36,7 @@
 ### 🤝 Let's Collaborate
 I’m open to:
 - Flutter projects  
-- Game dev (Unity/C#, Godot)  
-- UI/UX or educational projects
+- UI/UX design projects
 
 ---
 
@@ -45,8 +48,8 @@ I’m open to:
 ---
 
 ### 🎖️ Fun Facts
-- 🏆 1st Place in Esports & Scout Competition  
-- 👨‍💻 Coding is my hobby, not just a skill  
+- 🏆 1st Place in Esports Competition  
+- 👨‍💻 Coding is my hobby  
 - 🎨 I love building clean UIs  
 - 🐢 I might be quiet in real life, but my code speaks 😄
 
@@ -73,7 +76,7 @@ I’m open to:
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>  
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
 </p>
 
 <p align="center">
