@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Choirul'anam</h1>
 
-<!-- Typing Effect -->
 <p align="center">
-  <a href="https://github.com/choiranam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=💻+Student+Developer;🚀+Future+Flutter+Engineer;🎮+Game+and+App+Builder;🎨+UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Student+Developer;🚀+Future+Flutter+Engineer;🎮+Game+and+App+Builder;🎨+UI%2FUX+Design+Enthusiast&font=Fira%20Code&color=%B13BFF&center=true&width=500&height=30">
 </p>
 
 <!-- Profile Stats & Links -->
