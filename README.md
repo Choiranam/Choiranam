@@ -70,14 +70,15 @@ I’m open to:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=choiranam&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://Choiranam.github.io/Choiranam/github-contribution-grid-snake-dark.svg" />
     <img alt="GitHub Snake" src="https://Choiranam.github.io/Choiranam/github-contribution-grid-snake.svg" />
   </picture>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=choiranam&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
 </p>
 
 ---
