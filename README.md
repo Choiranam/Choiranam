@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Choirul'anam</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Student+Developer;🚀+Future+Flutter+Engineer;🎮+Game+and+App+Builder;🎨+UI%2FUX+Design+Enthusiast&font=Fira%20Code&color=%B13BFF&center=true&width=500&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Student+Developer;🚀+Future+Flutter+Engineer;🎮+Game+and+App+Builder;🎨+UI%2FUX+Design+Enthusiast&font=Fira%20Code&color=%7ADAA5&center=true&width=500&height=30">
 </p>
 
 <!-- Profile Stats & Links -->
