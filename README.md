@@ -10,9 +10,6 @@
   <a href="https://github.com/choiranam?tab=followers">
     <img src="https://img.shields.io/github/followers/choiranam?label=Followers&style=flat-square" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/choiranam?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Count-blue?style=flat-square&logo=github" alt="Public Repos" />
-  </a>
 </p>
 
 ---
